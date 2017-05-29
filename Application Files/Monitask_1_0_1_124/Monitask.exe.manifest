@@ -144,7 +144,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AIhkH5hu6di6aYNgZRsl6bf+R9El1CIIlWLVEFPrpkw=</dsig:DigestValue>
+      <dsig:DigestValue>DjYzqFE9N8/t8cgDgiMmMlosSEyKVvhOVLL+XKqV0Ow=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resourses\MT_znak.ico" size="15086">
